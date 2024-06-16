@@ -1,6 +1,6 @@
 # Hey there!
 
-[VYSP.AI Logo](./content/images/logo-dark-text.png)
+[VYSP.AI Logo](./logo-dark-text.png)
 
 Welcome to VYSP.AI! We specialize in AI security solutions, offering a comprehensive guardrail platform + API that scans and secures AI inputs and outputs using advanced machine learning classification models.
 
