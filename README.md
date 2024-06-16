@@ -77,7 +77,7 @@ For more information or inquiries, please reach out to us:
 
 Stay updated with the latest news and updates from VYSP.AI:
 
-- **Twitter:** [@vysp_ai](https://twitter.com/vyspai)
+- **Twitter:** [@vyspai](https://twitter.com/vyspai)
 - **LinkedIn:** [VYSP.AI](https://www.linkedin.com/company/vysp-ai)
 
 Thank you for visiting VYSP.AI! We look forward to helping you secure your AI systems.
